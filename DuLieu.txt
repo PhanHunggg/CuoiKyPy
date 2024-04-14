@@ -1,0 +1,1 @@
+[{"SoDKy": "1", "HoTen": "Phan Qu\u1ed1c H\u00f9ng", "DateOfBirth": "28/07/2002", "Phai": "Nam", "DiaChi": "Qu\u1eadn 8", "MaSoDienKe": "1", "DiaChiLapDat": "Qu\u1eadn 8", "LoaiHo": "Business"}]
